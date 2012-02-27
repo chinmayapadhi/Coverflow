@@ -1,0 +1,1 @@
+s:\sf\mw\qt\bin\createpackage -i -c mycerts.txt MusicPlayer_template.pkg release-armv5
